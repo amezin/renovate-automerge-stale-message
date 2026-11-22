@@ -1,0 +1,8 @@
+{
+	"packageRules": [
+		{
+			"matchFileNames": ["Dockerfile"],
+			"automerge": true
+		}
+	]
+}
