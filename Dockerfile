@@ -1,1 +1,1 @@
-FROM ghcr.io/renovatebot/renovate:44.257.7@sha256:62b884d6b537e3bf2e76be3d7b621d582c10ddcee5dda74b0c2ea17901db5129
+FROM ghcr.io/renovatebot/renovate:44.258.1@sha256:f88c659a3fbec410e4661cfc1f3a1c1a848c421c81418cd5d6f491c05cf4412e
